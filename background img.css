@@ -1,0 +1,10 @@
+div{
+    height: 200px;
+    width:400px;
+    background-color: aquamarine;
+    margin: 10px auto;
+    background-image: url(suraj3.jpg);
+    background-image:auto;
+    /* background-repeat: no-repeat; */
+    
+}
